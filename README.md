@@ -25,7 +25,7 @@ This tool allows you to generate recursion tree for any custom made C++ recursio
 
 To set up this project on your machine, follow these steps:
 
-1. Clone the repository: `git clone git@github.com:rishi058/Recursion_Visualizer.git`
+1. Clone the repository: `git clone https://github.com/Saurabh2244/Recursify-Recursion_Visualizer.git`
                           or just download the .zip file and extract it.
 
 2. Install dependencies: `npm install`
